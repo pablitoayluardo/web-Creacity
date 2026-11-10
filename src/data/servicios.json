@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dtf-textil",
+    "titulo": "DTF Textil",
+    "subtitulo": "Impresión por metros lineales (60 cm de ancho)",
+    "categoria": "DTF",
+    "badgeColor": "#38BDF8",
+    "unidad": "Metro lineal (58–60 cm)",
+    "descripcion": "Estampado textil de alta definición por metros lineales sin límite de color, listo para transferir en algodón, poliéster, licra y mezclas sobre prendas claras u oscuras.",
+    "caracteristicas": [
+      "Ancho útil de impresión hasta 58–60 cm",
+      "Alta elasticidad, tacto suave y resistencia al lavado",
+      "Sin mínimo de colores y con tinta blanca de alta opacidad",
+      "Revisión y armado de lienzo con nuestros diseñadores"
+    ],
+    "mensajeWhatsapp": "Hola CreaCity, deseo cotizar impresión de DTF Textil por metro lineal (60 cm)."
+  },
+  {
+    "id": "dtf-uv",
+    "titulo": "DTF UV (Rígidos)",
+    "subtitulo": "Transfers adhesivos con barniz y relieve táctil",
+    "categoria": "DTF UV",
+    "badgeColor": "#38BDF8",
+    "unidad": "Metro lineal / Formato personalizado",
+    "descripcion": "Adhesivos transferibles curados con luz UV de acabado brillante y relieve táctil, ideales para personalizar superficies rígidas sin necesidad de calor ni prensa.",
+    "caracteristicas": [
+      "Adherencia extrema en acrílico, metal, vidrio, plástico y madera",
+      "Acabado con barniz UV de alto brillo y efecto 3D táctil",
+      "Resistente al agua, rayaduras y exposición solar",
+      "Aplicación directa en frío (pegar y retirar film transportador)"
+    ],
+    "mensajeWhatsapp": "Hola CreaCity, deseo cotizar impresión de DTF UV para superficies rígidas."
+  },
+  {
+    "id": "sublimacion",
+    "titulo": "Sublimación",
+    "subtitulo": "Merchandising corporativo y textil publicitario",
+    "categoria": "Sublimación",
+    "badgeColor": "#FB7185",
+    "unidad": "Por unidad o producción por volumen",
+    "descripcion": "Personalización full color de artículos promocionales, regalos corporativos y textiles para marcas, eventos y emprendimientos con colores vibrantes.",
+    "caracteristicas": [
+      "Tazas, jarros térmicos, tomatodos, termos y llaveros",
+      "Camisetas deportivas, gorras, lanyards y bolsos publicitarios",
+      "Colores intensos integrados directamente en el sustrato",
+      "Descuentos especiales por volumen para empresas y eventos"
+    ],
+    "mensajeWhatsapp": "Hola CreaCity, deseo cotizar servicio de Sublimación y merchandising."
+  },
+  {
+    "id": "laser-3d",
+    "titulo": "Corte y Grabado Láser / Impresión 3D",
+    "subtitulo": "Precisión milimétrica y prototipado digital",
+    "categoria": "Láser & 3D",
+    "badgeColor": "#A855F7",
+    "unidad": "Por proyecto / Tiempo de máquina",
+    "descripcion": "Fabricación digital de alta precisión en acrílico, MDF, cuero y placas conmemorativas, junto con impresión 3D para prototipos, trofeos y piezas especiales.",
+    "caracteristicas": [
+      "Corte y grabado láser en acrílico, MDF, madera y bicapa",
+      "Letreros luminosos, trofeos, señalética y exhibidores",
+      "Impresión 3D para piezas personalizadas y prototipado rápido",
+      "Vectorización y preparación de archivos por nuestro equipo de diseño"
+    ],
+    "mensajeWhatsapp": "Hola CreaCity, deseo cotizar un proyecto de Corte/Grabado Láser o Impresión 3D."
+  }
+]

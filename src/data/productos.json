@@ -1,0 +1,86 @@
+[
+  {
+    "id": "prensa-termica-multifuncion",
+    "nombre": "Prensa Térmica Multifunción Combo 5 en 1 / 8 en 1",
+    "categoria": "Equipos",
+    "etiqueta": "Más Vendido",
+    "descripcion": "Estación térmica profesional para estampar camisetas, gorras, tazas y platos con control digital de temperatura y tiempo de alta precisión.",
+    "especificaciones": [
+      "Placa plana teflonada de 38 x 38 cm",
+      "Resistencias para tazas, gorras y platos",
+      "Controlador digital LED con alarma automática"
+    ],
+    "disponibilidad": "En stock",
+    "mensajeWhatsapp": "Hola CreaCity, me interesa cotizar la Prensa Térmica Multifunción."
+  },
+  {
+    "id": "plotter-corte-vinil",
+    "nombre": "Plotter de Corte de Vinil de Alta Precisión",
+    "categoria": "Equipos",
+    "etiqueta": "Emprendedores",
+    "descripcion": "Plotter profesional con lector óptico para corte de contorno (Print & Cut) en vinil textil, vinil adhesivo publicitario y cartulinas.",
+    "especificaciones": [
+      "Ancho de corte de 63 cm / 72 cm",
+      "Sensor óptico para troquelado de stickers",
+      "Incluye pedestal metálico y software de corte"
+    ],
+    "disponibilidad": "En stock",
+    "mensajeWhatsapp": "Hola CreaCity, me interesa cotizar el Plotter de Corte de Vinil."
+  },
+  {
+    "id": "prensa-plana-industrial",
+    "nombre": "Prensa Térmica Plana 40x60 cm Alto Rendimiento",
+    "categoria": "Equipos",
+    "etiqueta": "Producción",
+    "descripcion": "Plancha térmica de formato amplio ideal para transferencia rápida de DTF Textil, sublimación y vinil textil en producción continua.",
+    "especificaciones": [
+      "Área de trabajo de 40 x 60 cm",
+      "Distribución uniforme de calor y presión",
+      "Apertura magnética / bandeja deslizable"
+    ],
+    "disponibilidad": "En stock",
+    "mensajeWhatsapp": "Hola CreaCity, me interesa cotizar la Prensa Térmica Plana 40x60 cm."
+  },
+  {
+    "id": "cuchillas-repuesto-plotter",
+    "nombre": "Pack de Cuchillas de Repuesto (30°, 45° y 60°)",
+    "categoria": "Accesorios e Insumos",
+    "etiqueta": "Repuestos",
+    "descripcion": "Cuchillas de carburo de tungsteno de larga duración para plotters de corte, ideales para detalles finos, vinil estándar y materiales gruesos.",
+    "especificaciones": [
+      "Ángulos de 30°, 45° (estándar) y 60° (corte profundo)",
+      "Alta precisión en letras pequeñas y detalles",
+      "Compatibles con portacuchillas estándar Roland"
+    ],
+    "disponibilidad": "Entrega inmediata",
+    "mensajeWhatsapp": "Hola CreaCity, deseo adquirir el Pack de Cuchillas de Repuesto para plotter."
+  },
+  {
+    "id": "rollos-vinil-textil-adhesivo",
+    "nombre": "Rollos de Vinil Textil y Vinil Adhesivo",
+    "categoria": "Accesorios e Insumos",
+    "etiqueta": "Insumos",
+    "descripcion": "Amplia gama de colores básicos, neón, metalizados, glitter y flock en vinil textil PU y vinil adhesivo para rotulación.",
+    "especificaciones": [
+      "Venta por metro lineal o rollo completo",
+      "Fácil depilado y excelente adherencia al lavado",
+      "Variedad de acabados: mate, brillante, holográfico y puff"
+    ],
+    "disponibilidad": "Entrega inmediata",
+    "mensajeWhatsapp": "Hola CreaCity, deseo consultar colores y precios de Rollos de Vinil Textil y Adhesivo."
+  },
+  {
+    "id": "teflon-tintas-sustratos",
+    "nombre": "Láminas de Teflón, Tintas y Sustratos Sublimables",
+    "categoria": "Accesorios e Insumos",
+    "etiqueta": "Suministros",
+    "descripcion": "Todo para tu taller: pliegos de teflón protector, cinta térmica, tintas de sublimación, papel de transferencia y blancos sublimables.",
+    "especificaciones": [
+      "Láminas de teflón reutilizables resistentes al calor",
+      "Tintas de alto rendimiento con perfiles de color nítidos",
+      "Tazas blancas/mágicas, termos, llaveros y placas de aluminio"
+    ],
+    "disponibilidad": "Entrega inmediata",
+    "mensajeWhatsapp": "Hola CreaCity, deseo cotizar teflón, tintas y sustratos para sublimación/estampado."
+  }
+]
